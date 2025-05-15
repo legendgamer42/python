@@ -1,0 +1,5 @@
+One day, a <adjective> <animal> decided to <verb> through the <place>.
+Everyone in the <place> was <emotion> because the <animal> was wearing a <adjective> <clothing_item>.
+Suddenly, a <celebrity> appeared and started <verb_ending_in_ing> with the <animal>.
+It was the most <adjective> day in <number> years.
+
