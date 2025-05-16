@@ -35,3 +35,4 @@ def main(stdscr):
     wpm_test(stdscr)
 
 wrapper(main)
+# this is unfinished
